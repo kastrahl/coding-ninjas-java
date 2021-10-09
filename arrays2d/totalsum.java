@@ -1,4 +1,3 @@
-
 public class Solution {
 
 	public static void totalSum(int[][] mat) {
